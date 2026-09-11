@@ -1,0 +1,16 @@
+work,module,title,evidence,claim_limit
+1,Module 1,Профилирование сенсорных данных,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+2,Module 1,Очистка и разведочный анализ,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+3,Module 1,Признаки и временное разделение,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+4,Module 2,Линейная регрессия массы рыбы,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+5,Module 2,Нелинейная регрессия и переобучение,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+6,Module 2,Регуляризация и итоговая модель,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+7,Module 3,Классификация производственного риска,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+8,Module 3,Порог решения и цена ошибки,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+9,Module 3,Сравнение классификаторов,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+10,Module 4,Базовые прогнозы временного ряда,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+11,Module 4,ARIMA прогноз кислорода,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+12,Module 4,LSTM без утечки данных,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+13,Module 5,Предобработка и контуры рыбы,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+14,Module 5,IoU и mAP на независимом test,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
+15,Module 5,YOLOv8 обучение и итоговый pipeline,Notebook and synthetic data included,Do not claim causal effectiveness without a comparison group
